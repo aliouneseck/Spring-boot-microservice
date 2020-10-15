@@ -6,6 +6,8 @@ We developed REST microservice  with Spring boot. It lists the languages used by
 * The number of bytes of code written in that language
 * The list of repositories that use it
 
+If you are not familiar with Spring Boot, you can read the HELP.md to get started: https://github.com/aliouneseck/Spring-boot-microservice/blob/main/HELP.md.
+
 ## Installation Instructions
 
 You can import the project as a maven application to your favorite IDE. This project was developped t by using itellij IDEA utilmate 2019.
@@ -100,6 +102,7 @@ The list of dependencies we use for this project:
 
 ## Code Documentation
 
-If you want more information about the code you can read the wiki: https://github.com/aliouneseck/Spring-boot-microservice/wiki
+If you want more information about the code you can read the wiki: https://github.com/aliouneseck/Spring-boot-microservice/wiki.
+
 
 
